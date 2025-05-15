@@ -1,2 +1,1 @@
-(/hospital-supplies-report.pdf)
-
+[📄 Download Full Report (PDF)](/hospital-supplies-report.pdf)
