@@ -11,7 +11,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
+- {name: 'Project One - Hospital Supplies Optimisation',   url: 'proj-1'}
 
 #-------------------------------
 # Contact Section
